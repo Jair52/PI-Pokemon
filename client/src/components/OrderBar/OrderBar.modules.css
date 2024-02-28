@@ -1,0 +1,7 @@
+select {
+    padding: 0.8vh;
+    border-radius: 8px;
+    border: 1px solid #555;
+    font-family: inherit;
+    cursor: pointer;
+}
